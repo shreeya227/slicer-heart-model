@@ -6,7 +6,6 @@ A 3D Slicer scripted module that turns a segmented cardiac structure from a CT s
 
 Built with Python, VTK and NumPy on top of 3D Slicer.
 
-![Aorta model in 3D Slicer](docs/screenshot.png)
 
 ## What it does
 
