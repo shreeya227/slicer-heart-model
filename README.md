@@ -18,9 +18,6 @@ Built with Python, VTK and NumPy on top of 3D Slicer.
    - the cross-sectional area through the middle of the shape, plus its equivalent diameter
 4. Adds the model to the 3D view and exports it as `.stl`, along with a `_measurements.json` file.
 
-## Results
-
-Example run on the CTACardio sample scan:
 
 ## Results
 
